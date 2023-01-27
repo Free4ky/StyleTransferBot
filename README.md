@@ -21,7 +21,8 @@ P.S. If you don't sure about type of images you can send them both simultaneousl
 
 
 ## :briefcase: Example of work
- 
+
+:warning: Program runs longer time than presented in gif!
 
 ![gif_example](https://user-images.githubusercontent.com/51875349/215075656-985dde29-f31c-4bb9-9e3d-e2bfd62e03d0.gif)
 
