@@ -9,9 +9,19 @@ Neural-Transfer, allows you to take an image and reproduce it with a new artisti
 
 ![neuralstyle](https://user-images.githubusercontent.com/51875349/215071741-c8952922-94ca-430d-9e55-3583fee98de0.png)
 
+## :mag: How to use bot?
+
+**Bot is available by [link](https://web.telegram.org/k/#@Style_Transfer_453550286_bot)**
+
+1. Input ```/start``` command
+2. Send style-image
+3. Send content-image
+
+P.S. If you don't sure about type of images you can send them both simultaneously.
+
 
 ## :briefcase: Example of work
-
+ 
 
 ![gif_example](https://user-images.githubusercontent.com/51875349/215075656-985dde29-f31c-4bb9-9e3d-e2bfd62e03d0.gif)
 
