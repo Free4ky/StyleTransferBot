@@ -13,9 +13,9 @@ Neural-Style, or Neural-Transfer, allows you to take an image and reproduce it w
 
 **Bot is available by [link](https://web.telegram.org/k/#@Style_Transfer_453550286_bot)**
 
-1. Input ```/start``` command
-2. Send style-image
-3. Send content-image
+1. Input ```/start``` command;
+2. Send style-image;
+3. Send content-image.
 
 P.S. If you don't sure about type of images you can send them both simultaneously.
 
