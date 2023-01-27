@@ -5,7 +5,7 @@
 ## :page_facing_up: Description
 
 
-Neural-Transfer, allows you to take an image and reproduce it with a new artistic style. The algorithm takes three images, an input image, a content-image, and a style-image, and changes the input to resemble the content of the content-image and the artistic style of the style-image.
+Neural-Style, or Neural-Transfer, allows you to take an image and reproduce it with a new artistic style. The algorithm takes three images, an input image, a content-image, and a style-image, and changes the input to resemble the content of the content-image and the artistic style of the style-image.
 
 ![neuralstyle](https://user-images.githubusercontent.com/51875349/215071741-c8952922-94ca-430d-9e55-3583fee98de0.png)
 
